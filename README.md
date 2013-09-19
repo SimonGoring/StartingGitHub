@@ -6,6 +6,7 @@ This repository is associated with, and modified from, a [post](http://downwitht
 Contributors
 ----------------
 Simon Goring
+Julia Barthold
 
 
 Introduction
